@@ -104,6 +104,7 @@
 - Quest 05 - J179_이민기
   - 수행 o 
   -  [수행 결과](https://gist.github.com/user-attachments/assets/f112cf80-c86a-48d5-8cd8-efd056ef2d71)
+  -  혼자 하다가, 이런 식으로 추상화를 거치면서 설계하고, 개발하니까 조금 더 확실해진 것 같아서 좋았습니다!!
 - Quest 06 - K008_김성민
   - 수행 o
   - 평소에서도 스트레칭을 자주해서 수행했음. 
