@@ -83,5 +83,5 @@
 - Quest 02 - S013_김민석
 - Quest 03 - J178_이무현
 - Quest 04 - J001_강민주
-- Quest 05 - J179_이민기
+- Quest 05 - J179_이민기 / [수행 결과](https://gist.github.com/user-attachments/assets/f112cf80-c86a-48d5-8cd8-efd056ef2d71)
 - Quest 06 - K008_김성민
