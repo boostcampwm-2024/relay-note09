@@ -187,6 +187,11 @@
 	 - S021 문영균
 	- J170 이나경
 
+   		- 미션하면서 틈틈히 손목 스트레칭이라도 간단히 하려고 노력했습니다! 
+       
+			![image](https://github.com/user-attachments/assets/761ffb78-c836-4ad1-9723-f1aef047623f)
+
+
 
 # 해석 공유
 
